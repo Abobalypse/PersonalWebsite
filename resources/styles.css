@@ -6,7 +6,6 @@
 body {
     display: block;
     text-align: center;
-    background-color: #eeeaea;
 }
 
 .top-container {
@@ -17,7 +16,7 @@ body {
 }
 
 hr {
-    border: dotter 1px #eeeaea;
+    border: solid 8px #eeeaea;
     width: 4%;
     margin: 10% auto;
 }
@@ -28,15 +27,35 @@ hr {
 
 .container img {
     border-radius: 25%;
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
 
+.link {
+    padding-bottom: 20px;
+}
 
+.button-secondary {
+    border: none;
+}
 
 .btn-fix {
-    margin-top: 50px; 
+    margin-top: 70px; 
 }
 
+.btn-middle {
+    margin-top: 40px;
+}
 
-.middle-container {
+.bottom-container a {
+    padding: 20px;
+    text-decoration: none;
+    color: darkgray;
+}
 
+.bottom-container {
+    padding: 50px 0 100px;
+    margin-top: 10%;
+    background-color: rgb(131, 131, 131);
+    padding: 20px;
 }
