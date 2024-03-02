@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: block;
+    text-align: center;
+    background-color: #eeeaea;
+}
+
+.top-container {
+    background-color: rgb(131, 131, 131);
+    margin-bottom: 26px;
+    padding-top: 36px;
+    height: 350px;
+}
+
+hr {
+    border: dotter 1px #eeeaea;
+    width: 4%;
+    margin: 10% auto;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.container img {
+    border-radius: 25%;
+}
+
+
+
+.btn-fix {
+    margin-top: 50px; 
+}
+
+
+.middle-container {
+
+}
